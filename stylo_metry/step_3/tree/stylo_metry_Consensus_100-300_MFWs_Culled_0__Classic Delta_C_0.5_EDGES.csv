@@ -1,0 +1,75 @@
+Source,Target,Weight,Type
+Bykov_Iyun,Bykov_Sto_Nochey,2,undirected
+Bykov_Iyun,Dubovitsky_Mashinka,63,undirected
+Bykov_Iyun,Dubovitsky_Okolonolya,42,undirected
+Bykov_Iyun,Erofeev_Apokalipsis,19,undirected
+Bykov_Sto_Nochey,Bykov_Iyun,2,undirected
+Bykov_Sto_Nochey,Dubovitsky_Mashinka,23,undirected
+Bykov_Sto_Nochey,Dubovitsky_Okolonolya,22,undirected
+Bykov_Sto_Nochey,Erofeev_Apokalipsis,27,undirected
+Bykov_Sto_Nochey,Sorokin_Istoria,54,undirected
+Dubovitsky_Mashinka,Bykov_Iyun,63,undirected
+Dubovitsky_Mashinka,Bykov_Sto_Nochey,23,undirected
+Dubovitsky_Mashinka,Dubovitsky_Okolonolya,126,undirected
+Dubovitsky_Mashinka,Erofeev_Apokalipsis,21,undirected
+Dubovitsky_Mashinka,Sorokin_Istoria,1,undirected
+Dubovitsky_Mashinka,Sorokin_Manaraga,26,undirected
+Dubovitsky_Mashinka,Sorokin_Salo,15,undirected
+Dubovitsky_Mashinka,Surkov_Ruspioner,4,undirected
+Dubovitsky_Okolonolya,Bykov_Iyun,42,undirected
+Dubovitsky_Okolonolya,Bykov_Sto_Nochey,22,undirected
+Dubovitsky_Okolonolya,Dubovitsky_Mashinka,126,undirected
+Dubovitsky_Okolonolya,Erofeev_Apokalipsis,38,undirected
+Dubovitsky_Okolonolya,Sorokin_Istoria,26,undirected
+Dubovitsky_Okolonolya,Sorokin_Manaraga,1,undirected
+Dubovitsky_Okolonolya,Sorokin_Salo,2,undirected
+Dubovitsky_Okolonolya,Surkov_Ruspioner,43,undirected
+Erofeev_Akimudy,Erofeev_Apokalipsis,126,undirected
+Erofeev_Akimudy,Sorokin_Istoria,23,undirected
+Erofeev_Akimudy,Sorokin_Manaraga,32,undirected
+Erofeev_Akimudy,Sorokin_Salo,8,undirected
+Erofeev_Apokalipsis,Bykov_Iyun,19,undirected
+Erofeev_Apokalipsis,Bykov_Sto_Nochey,27,undirected
+Erofeev_Apokalipsis,Dubovitsky_Mashinka,21,undirected
+Erofeev_Apokalipsis,Dubovitsky_Okolonolya,38,undirected
+Erofeev_Apokalipsis,Erofeev_Akimudy,126,undirected
+Erofeev_Apokalipsis,Sorokin_Istoria,83,undirected
+Erofeev_Apokalipsis,Sorokin_Manaraga,17,undirected
+Erofeev_Apokalipsis,Surkov_Ruspioner,62,undirected
+Sorokin_Istoria,Bykov_Sto_Nochey,54,undirected
+Sorokin_Istoria,Dubovitsky_Mashinka,1,undirected
+Sorokin_Istoria,Dubovitsky_Okolonolya,26,undirected
+Sorokin_Istoria,Erofeev_Akimudy,23,undirected
+Sorokin_Istoria,Erofeev_Apokalipsis,83,undirected
+Sorokin_Istoria,Sorokin_Manaraga,104,undirected
+Sorokin_Istoria,Sorokin_Oprichnik,21,undirected
+Sorokin_Istoria,Sorokin_Salo,44,undirected
+Sorokin_Istoria,Surkov_Ruspioner,17,undirected
+Sorokin_Istoria,Surkov_Tekstyi 97-07,13,undirected
+Sorokin_Manaraga,Dubovitsky_Mashinka,26,undirected
+Sorokin_Manaraga,Dubovitsky_Okolonolya,1,undirected
+Sorokin_Manaraga,Erofeev_Akimudy,32,undirected
+Sorokin_Manaraga,Erofeev_Apokalipsis,17,undirected
+Sorokin_Manaraga,Sorokin_Istoria,104,undirected
+Sorokin_Manaraga,Sorokin_Oprichnik,63,undirected
+Sorokin_Manaraga,Sorokin_Salo,126,undirected
+Sorokin_Oprichnik,Sorokin_Istoria,21,undirected
+Sorokin_Oprichnik,Sorokin_Manaraga,63,undirected
+Sorokin_Oprichnik,Sorokin_Salo,105,undirected
+Sorokin_Oprichnik,Surkov_Tekstyi 97-07,55,undirected
+Sorokin_Salo,Dubovitsky_Mashinka,15,undirected
+Sorokin_Salo,Dubovitsky_Okolonolya,2,undirected
+Sorokin_Salo,Erofeev_Akimudy,8,undirected
+Sorokin_Salo,Sorokin_Istoria,44,undirected
+Sorokin_Salo,Sorokin_Manaraga,126,undirected
+Sorokin_Salo,Sorokin_Oprichnik,105,undirected
+Sorokin_Salo,Surkov_Tekstyi 97-07,50,undirected
+Surkov_Ruspioner,Dubovitsky_Mashinka,4,undirected
+Surkov_Ruspioner,Dubovitsky_Okolonolya,43,undirected
+Surkov_Ruspioner,Erofeev_Apokalipsis,62,undirected
+Surkov_Ruspioner,Sorokin_Istoria,17,undirected
+Surkov_Ruspioner,Surkov_Tekstyi 97-07,8,undirected
+Surkov_Tekstyi 97-07,Sorokin_Istoria,13,undirected
+Surkov_Tekstyi 97-07,Sorokin_Oprichnik,55,undirected
+Surkov_Tekstyi 97-07,Sorokin_Salo,50,undirected
+Surkov_Tekstyi 97-07,Surkov_Ruspioner,8,undirected
