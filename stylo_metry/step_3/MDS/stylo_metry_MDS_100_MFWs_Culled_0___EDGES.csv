@@ -1,0 +1,57 @@
+Source,Target,Weight,Type
+Bykov_Iyun,Dubovitsky_Mashinka_i_Velik,3,undirected
+Bykov_Iyun,Dubovitsky_Okolonolya,2,undirected
+Bykov_Iyun,Erofeev_Apokalipsis,1,undirected
+Bykov_Sto_Nochey,Dubovitsky_Mashinka_i_Velik,3,undirected
+Bykov_Sto_Nochey,Dubovitsky_Okolonolya,2,undirected
+Bykov_Sto_Nochey,Sorokin_Istoria,1,undirected
+Dubovitsky_Mashinka_i_Velik,Bykov_Iyun,3,undirected
+Dubovitsky_Mashinka_i_Velik,Bykov_Sto_Nochey,3,undirected
+Dubovitsky_Mashinka_i_Velik,Dubovitsky_Okolonolya,6,undirected
+Dubovitsky_Mashinka_i_Velik,Erofeev_Apokalipsis,1,undirected
+Dubovitsky_Mashinka_i_Velik,Sorokin_Teluria,2,undirected
+Dubovitsky_Mashinka_i_Velik,Surkov_Ruspioner,1,undirected
+Dubovitsky_Okolonolya,Bykov_Iyun,2,undirected
+Dubovitsky_Okolonolya,Bykov_Sto_Nochey,2,undirected
+Dubovitsky_Okolonolya,Dubovitsky_Mashinka_i_Velik,6,undirected
+Dubovitsky_Okolonolya,Erofeev_Apokalipsis,1,undirected
+Dubovitsky_Okolonolya,Sorokin_Teluria,2,undirected
+Dubovitsky_Okolonolya,Surkov_Ruspioner,2,undirected
+Erofeev_Akimudy,Erofeev_Apokalipsis,6,undirected
+Erofeev_Akimudy,Sorokin_Salo,1,undirected
+Erofeev_Akimudy,Sorokin_Teluria,2,undirected
+Erofeev_Apokalipsis,Bykov_Iyun,1,undirected
+Erofeev_Apokalipsis,Dubovitsky_Mashinka_i_Velik,1,undirected
+Erofeev_Apokalipsis,Dubovitsky_Okolonolya,1,undirected
+Erofeev_Apokalipsis,Erofeev_Akimudy,6,undirected
+Erofeev_Apokalipsis,Sorokin_Istoria,3,undirected
+Erofeev_Apokalipsis,Sorokin_Teluria,1,undirected
+Erofeev_Apokalipsis,Surkov_Ruspioner,3,undirected
+Sorokin_Istoria,Bykov_Sto_Nochey,1,undirected
+Sorokin_Istoria,Erofeev_Apokalipsis,3,undirected
+Sorokin_Istoria,Sorokin_Oprichnik,1,undirected
+Sorokin_Istoria,Sorokin_Salo,3,undirected
+Sorokin_Istoria,Sorokin_Teluria,5,undirected
+Sorokin_Oprichnik,Sorokin_Istoria,1,undirected
+Sorokin_Oprichnik,Sorokin_Salo,4,undirected
+Sorokin_Oprichnik,Sorokin_Teluria,4,undirected
+Sorokin_Oprichnik,Surkov_Tekstyi 97-07,2,undirected
+Sorokin_Salo,Erofeev_Akimudy,1,undirected
+Sorokin_Salo,Sorokin_Istoria,3,undirected
+Sorokin_Salo,Sorokin_Oprichnik,4,undirected
+Sorokin_Salo,Sorokin_Teluria,6,undirected
+Sorokin_Salo,Surkov_Tekstyi 97-07,3,undirected
+Sorokin_Teluria,Dubovitsky_Mashinka_i_Velik,2,undirected
+Sorokin_Teluria,Dubovitsky_Okolonolya,2,undirected
+Sorokin_Teluria,Erofeev_Akimudy,2,undirected
+Sorokin_Teluria,Erofeev_Apokalipsis,1,undirected
+Sorokin_Teluria,Sorokin_Istoria,5,undirected
+Sorokin_Teluria,Sorokin_Oprichnik,4,undirected
+Sorokin_Teluria,Sorokin_Salo,6,undirected
+Sorokin_Teluria,Surkov_Tekstyi 97-07,1,undirected
+Surkov_Ruspioner,Dubovitsky_Mashinka_i_Velik,1,undirected
+Surkov_Ruspioner,Dubovitsky_Okolonolya,2,undirected
+Surkov_Ruspioner,Erofeev_Apokalipsis,3,undirected
+Surkov_Tekstyi 97-07,Sorokin_Oprichnik,2,undirected
+Surkov_Tekstyi 97-07,Sorokin_Salo,3,undirected
+Surkov_Tekstyi 97-07,Sorokin_Teluria,1,undirected
